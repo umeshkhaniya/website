@@ -2,7 +2,7 @@
 *Computational Biophysicist and An Aspiring Data Scientist* 
 
 # Education
-* Ph.D. in Physics, *CUNY Graduate Center*, 2016-2021*
+* Ph.D. in Physics, *CUNY Graduate Center*, 2016-2021
 * Master in Physics, *Tribhuvan University, Nepal*, 2014-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
