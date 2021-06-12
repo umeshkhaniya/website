@@ -1,5 +1,5 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Umesh Khaniya
+*Computational Biophysicist and An Aspiring Data Scientist 
 
 # Education
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
