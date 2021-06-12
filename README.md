@@ -5,12 +5,12 @@
 * Ph.D. in Physics, *CUNY Graduate Center*, 2016-2021
 * Master in Physics, *Tribhuvan University, Nepal*, 2014-2016
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Microstate Analysis of Protein](https://github.com/umeshkhaniya/microstate_lysozyme_analysis)
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project invloves the novel way of finding the right protonated state for Molecular Dynamics.
+* **Python libraries used:** 
+* **Input:** Microstate file from MCCE output
+* **Output:** Protonation state of Protein 
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 
