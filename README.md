@@ -7,7 +7,7 @@
 
 # [Project 1: Microstate Analysis of Protein](https://github.com/umeshkhaniya/microstate_lysozyme_analysis)
 
-This project invloves the novel way of finding the right protonated state for Molecular Dynamics.
+This project invloves the novel way of finding the right protonated state for Molecular Dynamics Simulation. This tool is developed by me and now in use in Gunner Lab. 
 * **Python libraries used:** Python3
 * **Input:** Microstate file from MCCE output
 * **Output:** Protonation state of Protein 
