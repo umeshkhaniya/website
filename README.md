@@ -2,7 +2,7 @@
 *Computational Biophysicist and An Aspiring Data Scientist* 
 
 # Education
-* Ph.D. in Physics, *CUNY Graduate Center*, 2016-2021
+* Ph.D.  Candidate in Physics, *CUNY Graduate Center*, 2016-Current
 * Master in Physics, *Tribhuvan University, Nepal*, 2014-2016
 
 # [Project 1: Microstate Analysis of Protein](https://github.com/umeshkhaniya/microstate_lysozyme_analysis)
