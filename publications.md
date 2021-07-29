@@ -1,8 +1,8 @@
 ## Book Chapter
-- Gupta, C.,*Khaniya, U.*, Vant, J., Shekhar, M., Mao, J., Gunner, M. R., Singharoy, A. Poor Person’s pH Simulation of Membrane Proteins Methods in Molecular Biology, Vol. 2315 (Computational Design of Membrane Proteins), 197-217, 2021.
+- Gupta, C.,**Khaniya, U.**, Vant, J., Shekhar, M., Mao, J., Gunner, M. R., Singharoy, A. Poor Person’s pH Simulation of Membrane Proteins Methods in Molecular Biology, Vol. 2315 (Computational Design of Membrane Proteins), 197-217, 2021.
 
 ## Papers
-- Kaur, D*., Khaniya, U.* Zhang, Y*., Gunner, M.  Protein Motifs for Proton Transfers That Build the Transmembrane Proton Gradient, Frontiers in Chemistry 9, 446 (2021).
+- Kaur, D*., **Khaniya, U.*** Zhang, Y*., Gunner, M.  Protein Motifs for Proton Transfers That Build the Transmembrane Proton Gradient, Frontiers in Chemistry 9, 446 (2021).
 - Khaniya, U., Gupta, C., Cai, X., Mao, J., Kaur, D., Zhang, Y., et al. (2020). Hydrogen Bond Network Analysis Reveals the Pathway for the Proton Transfer in the E-Channel of T. thermophilus Complex I. Biochim. Biophys. Acta (Bba) - Bioenerg. 1861, 148240
 - Cai, X., Son, C. Y., Mao, J., Kaur, D., Zhang, Y., Khaniya, U., et al. (2020). Identifying the Proton Loading Site Cluster in the Ba Cytochrome C Oxidase that Loads and Traps Protons. Biochim. Biophys. Acta (Bba) - Bioenerg. 1861, 148239
 - Gupta, C., Khaniya, U., Chan, C. K., Dehez, F., Shekhar, M., Gunner, M. R., et al. (2020). Charge Transfer and Chemo-Mechanical Coupling in Respiratory Complex I. J. Am. Chem. Soc. 142, 9220–9230. 
