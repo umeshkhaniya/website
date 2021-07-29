@@ -21,4 +21,4 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 
 
 # Publications
-* Pro
+* publicat
