@@ -1,5 +1,5 @@
 ## Book Chapter
-- Gupta, C., Khaniya, U., Vant, J., Shekhar, M., Mao, J., Gunner, M. R., Singharoy, A. Poor Person’s pH Simulation of Membrane Proteins Methods in Molecular Biology, Vol. 2315 (Computational Design of Membrane Proteins), 197-217, 2021.
+- Gupta, C.,*Khaniya, U.*, Vant, J., Shekhar, M., Mao, J., Gunner, M. R., Singharoy, A. Poor Person’s pH Simulation of Membrane Proteins Methods in Molecular Biology, Vol. 2315 (Computational Design of Membrane Proteins), 197-217, 2021.
 
 ## Papers
 - Kaur, D*., Khaniya, U.* Zhang, Y*., Gunner, M.  Protein Motifs for Proton Transfers That Build the Transmembrane Proton Gradient, Frontiers in Chemistry 9, 446 (2021).
