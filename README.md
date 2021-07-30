@@ -1,6 +1,6 @@
 # Umesh Khaniya
 ***Computational Biophysicist and An Aspiring Data Scientist*** 
-
+### [Click here to know more about me]
 # Education
 * Ph.D.  Candidate in Physics, *CUNY Graduate Center*, 2016-Current
 * Master in Physics, *Tribhuvan University, Nepal*, 2014-2016
