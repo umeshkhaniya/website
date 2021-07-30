@@ -1,4 +1,3 @@
-# Umesh Khaniya
 ***Computational Biophysicist and An Aspiring Data Scientist*** 
 ### [Click here to know more about me]
 #### [Want to Connect](mailto:umesh.khaniya2010@gmail.com)
