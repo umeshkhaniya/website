@@ -1,5 +1,5 @@
 # Umesh Khaniya
-*Computational Biophysicist and An Aspiring Data Scientist* 
+***Computational Biophysicist and An Aspiring Data Scientist*** 
 
 # Education
 * Ph.D.  Candidate in Physics, *CUNY Graduate Center*, 2016-Current
