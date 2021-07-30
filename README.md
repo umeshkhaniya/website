@@ -1,5 +1,5 @@
 ### [Click here to know more about me]
-#### [Want to Connect](mailto:umesh.khaniya2010@gmail.com)
+#### [Email](mailto:umesh.khaniya2010@gmail.com) [Linkedin](www.linkedin.com/in/umesh-khaniya-72a1b0132)
 # Education
 * Ph.D.  Candidate in Physics, *CUNY Graduate Center*, 2016-Current
 * Master in Physics, *Tribhuvan University, Nepal*, 2014-2016
