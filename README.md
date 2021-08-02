@@ -1,4 +1,3 @@
-### [Click here to know more about me]
 ### Feel free to connect: [Email](mailto:umesh.khaniya2010@gmail.com) or  [Linkedin](https://www.linkedin.com/in/umesh-khaniya-72a1b0132)
 # Education
 * Ph.D.  Candidate in Physics, *CUNY Graduate Center*, 2016-Current
