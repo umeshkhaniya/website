@@ -20,7 +20,10 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Output:** Trading signals triggers buying and selling
 
 
-### [Project 3: Developed and maintained the Gunner Lab website](https://gunnerlab.ccny.cuny.edu/)
+### [Project 3: Udacity Nanodegree Data Engineer]
+
+
+### [Project 4: Developed and maintained the Gunner Lab website](https://gunnerlab.ccny.cuny.edu/)
 
 # [Publications](https://github.com/umeshkhaniya/umeshkhaniya.github.io/blob/gh-pages/publications.md)
 
