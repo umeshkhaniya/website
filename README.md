@@ -7,17 +7,15 @@
 
 ### [Project 1: Microstate Analysis of Protein](https://github.com/umeshkhaniya/microstate_lysozyme_analysis)
 
-This project invloves the novel way of finding the right protonated state for Molecular Dynamics Simulation. In this project, millions of microstates produced during the Monte Carlo run are used for analysis propose. This tool is developed by me with the help of Junjun Mao. This is now used in  Marilyn Gunner Lab to find the protonation state. 
+This project invloves the novel way of finding the right protonated state for Molecular Dynamics Simulation. In this project, millions of microstates obtained during the Monte Carlo run are used for analysis. This is now used in  Marilyn Gunner Lab to find the protonation state and  also has free energy, PDb writing functionality. 
 * **Python libraries used:** Python3
 * **Input:** Microstate file from MCCE output
 * **Output:** Protonation state of Protein 
 
 ### [Project 2: Drug Discovery using the Machine Learning approach](https://github.com/umeshkhaniya/Drug-Discovery-using-the-Machine-Learning-approach)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+This project  is inspired from Data Professor. Here  I used different machine learining techniques to predcit the IC50 value of Aromatase Inhibitor.
+* **Libraries used:** Streamlit, Sklearn, python3
 
 
 ### [Project 3: Udacity Nanodegree Data Engineer]
