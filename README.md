@@ -12,7 +12,7 @@ This project invloves the novel way of finding the right protonated state for Mo
 * **Input:** Microstate file from MCCE output
 * **Output:** Protonation state of Protein 
 
-### [Project 2: Drug Discovery using the Machine Learning approach]
+### [Project 2: Drug Discovery using the Machine Learning approach](https://github.com/umeshkhaniya/Drug-Discovery-using-the-Machine-Learning-approach)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
