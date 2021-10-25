@@ -18,7 +18,7 @@ This project  is inspired from Data Professor. Here  I used different machine le
 * **Libraries used:** Streamlit, Sklearn, python3
 
 
-### [Project 3: Udacity Nanodegree Data Engineer]
+### [Project 3: Udacity Nanodegree Data Engineer](https://github.com/umeshkhaniya/Udacity_Nanodegree_Data_Engineer)
 
 
 ### [Project 4: Developed and maintained the Gunner Lab website](https://gunnerlab.ccny.cuny.edu/)
