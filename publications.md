@@ -1,4 +1,4 @@
-https://scholar.google.com/citations?user=SCXaCtYAAAAJ&hl=en![image](https://github.com/user-attachments/assets/9ae8de4f-55e6-4b63-8d4f-037b758e7818)
+https://scholar.google.com/citations?user=SCXaCtYAAAAJ&hl=en
 
 ## Book Chapter
 - Gupta, C.,**Khaniya, U.**, Vant, J., Shekhar, M., Mao, J., Gunner, M. R., Singharoy, A. Poor Person’s pH Simulation of Membrane Proteins Methods in Molecular Biology, Vol. 2315 (Computational Design of Membrane Proteins), 197-217, 2021.
